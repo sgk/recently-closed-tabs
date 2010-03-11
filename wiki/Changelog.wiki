@@ -1,7 +1,5 @@
 #summary Here is the changelog for the extention "recently closed tabs" located.
 
-= Changelog =
-
 *05.03.2010 - 0.1:*
   * favicons added to the list shown in popup.html.
   * remove tab entry from the lastClosedTabsArray after it is being re-opened
