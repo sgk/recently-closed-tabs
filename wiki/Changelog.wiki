@@ -1,4 +1,4 @@
-#summary Here is the changelog for the extention "recently closed tabs" located.
+#summary List of changes made to the google chrome extension "recently closed tabs".
 
 *05.03.2010 - 0.1:*
   * favicons added to the list shown in popup.html.
