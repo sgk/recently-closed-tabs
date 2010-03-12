@@ -18,3 +18,8 @@
 *10.03.2010 - 0.9:*
   * handle the event if you reopen a tab and close it while it is not completely loaded
   * added preview image of the recently closed tabs right in front of the link
+
+*11.03.2010 - 0.91:*
+  * optimized the performance
+  * the generation of the preview images would be more stable
+  * new tabs and blank pages are filtered from the recently closed tabs list
