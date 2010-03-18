@@ -1,28 +1,33 @@
 #summary List of changes made to the google chrome extension "recently closed tabs".
 
-*05.03.2010 - 0.1:*
+*05/03/2010 - 0.1:*
   * favicons added to the list shown in popup.html.
   * remove tab entry from the lastClosedTabsArray after it is being re-opened
   * title for onmoveover the extension icon set to "Recently Closed Tabs"
   * added css
 
-*08.03.2010:*
+*08/03/2010:*
   * showing the recently closed tabs in the right order (last closed tab should be the first entry in the list shown in popup.html)
   * css tweaking
   * nicer icon
 
-*09.03.2010 - 0.81:*
+*09/03/2010 - 0.81:*
   * setup a google code SVN repository
   * push the extension to the extension gallery site
 
-*10.03.2010 - 0.9:*
+*10/03/2010 - 0.9:*
   * handle the event if you reopen a tab and close it while it is not completely loaded
   * added preview image of the recently closed tabs right in front of the link
 
-*11.03.2010 - 0.91:*
+*11/03/2010 - 0.91:*
   * optimized the performance
-  * the generation of the preview images would be more stable
+  * the generation of the preview images is more stable
   * new tabs and blank pages are filtered from the recently closed tabs list
 
-*14.03.2010 - 1.0:*
-  * details will follow...
+*14/03/2010 - 1.0:*
+  * added options page
+  * the complete list of entries is schown on the options page
+  * on the options page you can customize the number of shown recently closed tabs of the popup
+
+*15/03/2010 - 1.0.1:*
+  * BUGFIX: the number of recently closed tabs shown in the popup is now initially configured to 15
