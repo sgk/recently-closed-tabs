@@ -33,3 +33,7 @@
   * BUGFIX: the number of recently closed tabs shown in the popup is now initially configured to 15
 
 *See the following changes on our Infospage of the extension: <a href="http://code.google.com/p/recently-closed-tabs/source/browse/trunk/infonews.html">Infonews</a>*
+
+
+
+<iframe src="http://code.google.com/p/recently-closed-tabs/source/browse/trunk/infonews.html" width="310" height="566" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
