@@ -32,8 +32,20 @@
 *15/03/2010 - 1.0.1:*
   * BUGFIX: the number of recently closed tabs shown in the popup is now initially configured to 15
 
+*28/03/2010 - 1.1.1.1:*
+  * some annoying bugs fixed ;-)
+  * basic info news page on every version change, should be optimised to get triggered on major and minor version change
+  * localStorage use and optimised snapshot images (resized via canvas)
+  * introduced maxTabs parameter to control the length of the popup list
+
+*20/04/2010 - 1.2:*
+  * Reimplemented DOM manipulation with jquery library
+  * Infos page adjusted for layout purposes.
+  * Options page adjusted for layout purposes. A lot of infos about the recently closed tabs are placed here.
+  * Popup page adjusted for layout purposes.
+  * Added filters to the options page. Now you can add urls to the filters to exclude them from adding to the recently closed tabs list. You also have the possibility to edit the filters.
+  * Added option to show or not to show the screenshots for the recently closed tabs. Think of that if you switch the screenshots on the extension will consume more memory.
+  * Added &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8" /&gt; so that Draškos name is written properly ;-)
+          
+
 *See the following changes on our Infospage of the extension: <a href="http://code.google.com/p/recently-closed-tabs/source/browse/trunk/infonews.html">Infonews</a>*
-
-
-
-<iframe src="http://code.google.com/p/recently-closed-tabs/source/browse/trunk/infonews.html" width="310" height="566" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
